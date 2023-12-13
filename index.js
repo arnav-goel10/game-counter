@@ -36,3 +36,5 @@ function reset() {
     homeStoreEl.style.textShadow = ""
     guestStoreEl.style.textShadow = ""
 }
+
+//testing
